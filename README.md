@@ -11,3 +11,10 @@
 ## Relevant soft skills:		
 ### - In college and in my work experience I have worked with numerous groups, helping to develop my communication & teamwork skills.		
 ### - I have a tendancy to be quite persistant, helping me stick to a project despite any difficulties or errors that may occur as it progresses.		
+###    
+## Precious work:    
+### https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-frankward24    
+### - This is the 'Animalopoly' Work I had done in my contribution to the overall project. For which I had done the Player and Board class. Doing this I had better developped my teamworking & understanding of the importance in good communication skills amongst a group.    
+### - This project also severly helped my understanding of arrays in Java, due to the extent I was using them in the board class and to store each player.    
+### https://github.com/BHASVIC-CompSci/recursion-BHASVIC-frankward24    
+### - This task, although simple, had taught me about recursion, and its uses. A feature which I consider plenty, each time I make a loop, it had also helped me see functions as more than a way of organising work when coding in C.
