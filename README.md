@@ -1,7 +1,7 @@
 # Frank-ward		
 ## Professional Goals:		
 ### - Get through college and into a university to study software engineering.				
-### - Get a job in programming or working ina  data base.		
+### - Get a job in programming or working in a  data base.		
 ## What I'm working on:
 ### - I'm currently in the middle of a two week long work experience project at Orcale, my previous week (7th - 11th July) looking at data centres and spending each day working with the employees there, and this next week (14th - 18th July) Looking at the various job possitions in their offices.		
 ### - In college I have just started a new project in which you choose your own product to design, and spend time researching similar products and what consumers/stakeholders of it would want to see within it. For which I have chosen to make a rogue-lite, wave based survival game.		
